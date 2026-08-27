@@ -13,7 +13,7 @@ El dataset `everpeak_retail` incluye 15.000 registros de compras de clientes, el
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/github/DA-CristianGutierrez/Analisis-Novaretail/blob/main/S8%20Student%20Version-Project-NovaRetail.ipynb)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DA-CristianGutierrez/Analisis-Novaretail/blob/main/S8%20Student%20Version-Project-NovaRetail.ipynb)
 
 O:
 
