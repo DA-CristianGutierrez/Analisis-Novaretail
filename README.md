@@ -48,9 +48,9 @@ análisis correlacional (exploratorio) no causal.
 
 ## Metodología
 
-Procesamiento de datos: Se exploraron los datos para determinar tipos de variables y si se requería limpieza de estos.
-Separación de variables: Se determinaron variables del mismo y distinto tipo para aplicar la prueba que tuviera compatibilidad en cada correlación.
-Reporte profesional de correlación: Se entregó el resultado con los aspectos clave del tipo de analisis; supuestos previamente definidos, valor del coeficiente, aclaración, implicación de negocio.
+- Procesamiento de datos: Se exploraron los datos para determinar tipos de variables y si se requería limpieza de estos.
+- Separación de variables: Se determinaron variables del mismo y distinto tipo para aplicar la prueba que tuviera compatibilidad en cada correlación.
+- Reporte profesional de correlación: Se entregó el resultado con los aspectos clave del tipo de analisis; supuestos previamente definidos, valor del coeficiente, aclaración, implicación de negocio.
 
 
 ## Visualizaciones destacadas
