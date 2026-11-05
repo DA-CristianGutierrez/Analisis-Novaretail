@@ -35,7 +35,7 @@ Generar un reporte de análisis de correlación claro, responsable y accionable,
 En este proyecto analicé la existencia e intensidad de correlaciones entre distintas variables de comportamiento de usuario, en una plataforma de comercio electrónico con presencia en Latinoamérica. Empecé con una matriz de correlación general entre variables para luego entrar a detalle en una revisión de las correlaciones más fuertes. En base a esto, determiné que variables se activan más y en cuales podría haber una clave más útil que apunte al objetivo. 
 
 
-🛠️ Herramientas y analisis aplicado:
+## 🛠️ Herramientas y analisis aplicado:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
