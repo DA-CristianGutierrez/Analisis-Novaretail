@@ -80,3 +80,16 @@ Correlaciones destacadas: Las variables que mejor se asocian con el ingreso anua
 Acciones recomendadas:
 
 - Determinar si los clientes pueden perderse en alguna etapa de compra. También se puede evaluar si realmente no encuentran lo que están buscando.
+
+## Limitaciones
+- Correlación ≠ causalidad
+- Variables clave de segmentación desconocidas.
+
+## Próximos pasos
+
+1. Probar segmentaciones adicionales:
+
+- Nivel de ingreso
+- Miembro premium
+
+2. Creación de un funnel de conversión para confirmar si hay una perdida de usuarios en una etapa clave.
