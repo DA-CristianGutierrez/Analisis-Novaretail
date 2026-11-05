@@ -55,21 +55,21 @@ Reporte profesional de correlación: Se entregó el resultado con los aspectos c
 
 ## Visualizaciones destacadas
 
-Matriz de correlación: Gracias al mapa de calor, el cual corresponde a cada valor de coeficiente, identificamos rapidamente dos clusters de variables las cuales se mueven juntas, una en el centro de la matriz y la otra en la parte inferior o derecha de la imagen. Esto indica que los colores mas diferenciados apuntan a una actividad más intensa y por lo tanto, variables a tener en cuenta.  
+1. Matriz de correlación: Gracias al mapa de calor, el cual corresponde a cada valor de coeficiente, identificamos rapidamente dos clusters de variables las cuales se mueven juntas, una en el centro de la matriz y la otra en la parte inferior o derecha de la imagen. Esto indica que los colores mas diferenciados apuntan a una actividad más intensa y por lo tanto, variables a tener en cuenta.  
 
 <img width="678" height="599" alt="image" src="https://github.com/user-attachments/assets/80d72e3e-14b9-466e-9ae6-355818ab0d8c" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-Correlación destacada compras_mes / ingreso_anual: Esta relación entre cantidad de compras registradas e ingreso anual muestra un patrón ordenado (tiene a aumentar) en la visualización de los datos.
+2. Correlación destacada compras_mes / ingreso_anual: Esta relación entre cantidad de compras registradas e ingreso anual muestra un patrón ordenado (tiene a aumentar) en la visualización de los datos.
 
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/136efc3c-d32e-4a9c-b2f6-60df9c1bbec6" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-Correlación destacada visitas_mes / ingreso: Esta relación entre la cantidad de visitas a la plataforma y los ingresos generados muestra una dispersión regular en los datos.
+3. Correlación destacada visitas_mes / ingreso: Esta relación entre la cantidad de visitas a la plataforma y los ingresos generados muestra una dispersión regular en los datos.
 
 <img width="571" height="433" alt="image" src="https://github.com/user-attachments/assets/1aa40de9-d503-48e3-8143-eb575196f29b" />
 
