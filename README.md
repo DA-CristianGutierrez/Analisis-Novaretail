@@ -26,14 +26,14 @@ O:
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
-## 🧠 Objetivo del análisis
-
-Generar un reporte de análisis de correlación claro, responsable y accionable, que permita entender qué comportamientos del cliente están más fuertemente asociados con el ingreso generado, sin caer en interpretaciones causales incorrectas.
 
 ## Análisis de correlación no causal
 
 En este proyecto analicé la existencia e intensidad de correlaciones entre distintas variables de comportamiento de usuario, en una plataforma de comercio electrónico con presencia en Latinoamérica. Empecé con una matriz de correlación general entre variables para luego entrar a detalle en una revisión de las correlaciones más fuertes. En base a esto, determiné que variables se activan más y en cuales podría haber una clave más útil que apunte al objetivo. 
 
+## 🧠 Objetivo del análisis
+
+Generar un reporte de análisis de correlación claro, responsable y accionable, que permita entender qué comportamientos del cliente están más fuertemente asociados con el ingreso generado, sin caer en interpretaciones causales incorrectas.
 
 ## 🛠️ Herramientas y analisis aplicado:
 
