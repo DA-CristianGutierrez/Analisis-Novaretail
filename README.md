@@ -1,7 +1,5 @@
 # Analisis-NovaRetail+
 
-Este repositorio contiene el análisis de correlación realizado a la empresa NovaRetail+
-
 El dataset `everpeak_retail` incluye 15.000 registros de compras de clientes, el cual incluye valores numéricos, binarios y categóricos.
 
 ## 📂 Contenido del repositorio
